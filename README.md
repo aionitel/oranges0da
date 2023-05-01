@@ -6,5 +6,5 @@ Hello there! I'm a software engineer specializing in web and mobile development.
 
 ### 🟧 [Website](https://alexionitel.dev)
 ### 🟦 [LinkedIn](https://www.linkedin.com/in/alex-ionitel)
-### ⬜ [AngelCo](https://angel.co/u/alex-ionitel)
+### ⬜ [Wellfound](https://wellfound.com/u/alex-ionitel)
 ### ✉️ [Email](mailto:contact@alexionitel.dev)
